@@ -48,6 +48,7 @@ Below is the complete list of available options that can be used to customize yo
 
 ## ENV Example
 
+```bash
 PHP_PG_ADMIN_SERVER_DESC=PostgreSQL
 PHP_PG_ADMIN_SERVER_HOST=
 PHP_PG_ADMIN_SERVER_PORT=5432
@@ -71,3 +72,4 @@ PHP_PG_ADMIN_MAX_CHARS=50
 PHP_PG_ADMIN_USE_XHTML_STRICT=false
 PHP_PG_ADMIN_HELP_BASE=http://www.postgresql.org/docs/%s/interactive/
 PHP_PG_ADMIN_AJAX_REFRESH=3
+```
