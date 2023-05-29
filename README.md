@@ -50,7 +50,7 @@ Below is the complete list of available options that can be used to customize yo
 
 ```bash
 PHP_PG_ADMIN_SERVER_DESC=PostgreSQL
-PHP_PG_ADMIN_SERVER_HOST=
+PHP_PG_ADMIN_SERVER_HOST=hostname.domain.tld
 PHP_PG_ADMIN_SERVER_PORT=5432
 PHP_PG_ADMIN_SERVER_SSL_MODE=allow
 PHP_PG_ADMIN_SERVER_DEFAULT_DB=template1
